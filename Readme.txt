@@ -5,6 +5,6 @@
 GITHUB: https://github.com/jash-git/change-executable-ICON
 
 
-內涵工具和可測試的相關資料和步驟截圖
+內含 工具、可測試的相關資料 和 執行步驟截圖
 
 
